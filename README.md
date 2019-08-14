@@ -12,3 +12,7 @@ Wiki app that enables users to read and write an simple text
 
 Data are stored under data/  
 View templates are stroed under tmpl/
+
+### Reference
+
+https://golang.org/doc/articles/wiki/
